@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.18)  9 NOV 2018 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.18)  10 NOV 2018 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2621,7 +2621,7 @@ LaTeX Font Info:    Try loading font information for U+esint on input line 33.
 (c:/texlive/2018/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-<fig/fig1.jpg, id=69, 710.655pt x 377.91188pt>
+<fig/fig1.jpg, id=77, 710.655pt x 377.91188pt>
 File: fig/fig1.jpg Graphic file (type jpg)
 <use fig/fig1.jpg>
 Package pdftex.def Info: fig/fig1.jpg  used on input line 40.
@@ -2651,7 +2651,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 47.
-<fig/fig2.jpg, id=81, 596.2275pt x 394.47375pt>
+<fig/fig2.jpg, id=89, 596.2275pt x 394.47375pt>
 File: fig/fig2.jpg Graphic file (type jpg)
 <use fig/fig2.jpg>
 Package pdftex.def Info: fig/fig2.jpg  used on input line 52.
@@ -2669,46 +2669,223 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 58.
  [2 <./fig/fig1.jpg> <./fig/fig2.jpg>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 70.
  [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+<fig/fig3.jpg, id=106, 888.31876pt x 692.5875pt>
+File: fig/fig3.jpg Graphic file (type jpg)
+<use fig/fig3.jpg>
+Package pdftex.def Info: fig/fig3.jpg  used on input line 85.
+(pdftex.def)             Requested size: 483.69687pt x 377.11981pt.
+
+Overfull \hbox (1.68495pt too wide) in paragraph at lines 90--91
+\T2A/cmr/m/n/12 рые ис-чер-пы-ва-ю-щим об-ра-зом опи-сы-ва-ют-ся ком-плекс-ным 
+ко-эф-фи-ци-ен-том пе-ре-да-чи $\OML/cmm/m/it/12 K\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 j!\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 .
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 91.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 91.
+[4 <./fig/fig3.jpg>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 92.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 92.
+
+
+LaTeX Warning: Command \CYRE invalid in math mode on input line 100.
+
+Missing character: There is no Е in font cmr12!
+
+LaTeX Warning: Command \CYRE invalid in math mode on input line 100.
+
+Missing character: There is no Е in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 101.
+
+Missing character: There is no С in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 101.
+
+Missing character: There is no С in font cmr12!
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 101.
+
+
+LaTeX Warning: Command \CYRN invalid in math mode on input line 101.
+
+Missing character: There is no В in font cmr8!
+Missing character: There is no Н in font cmr8!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 101.
+
+Missing character: There is no С in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 101.
+
+Missing character: There is no С in font cmr12!
+<fig/fig4.jpg, id=118, 479.54156pt x 563.10374pt>
+File: fig/fig4.jpg Graphic file (type jpg)
+<use fig/fig4.jpg>
+Package pdftex.def Info: fig/fig4.jpg  used on input line 114.
+(pdftex.def)             Requested size: 290.22107pt x 340.79482pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 121.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 121.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 121.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 121.
+[5]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 131.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 131.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 131.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 131.
+ [6 <./fig/fig4.jpg>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 144.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 144.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 144.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 144.
+ [7]
+<fig/fig5.jpg, id=135, 605.26125pt x 347.04657pt>
+File: fig/fig5.jpg Graphic file (type jpg)
+<use fig/fig5.jpg>
+Package pdftex.def Info: fig/fig5.jpg  used on input line 163.
+(pdftex.def)             Requested size: 290.22107pt x 166.4057pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 170.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 170.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 170.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 170.
+[8]
+! Undefined control sequence.
+l.171 ...ѓСЃРєР°РЅРёСЏ РїРѕ СѓСЂРѕРІРЅСЋ $1/\squrt
+                                                  {2} \approx 0.7$ РѕС‚ РјР°...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.173 ...°РµС‚СЃСЏ РїСЂРё $\omega \shortrightarrow
+                                                   0$. Р—Р°РјРµС‚РёРј, С‡С‚Р...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 175.
+
+Missing character: There is no К in font cmr12!
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 177.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 177.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 177.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 177.
+[9 <./fig/fig5.jpg>]
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 177.
+
+Missing character: There is no К in font cmr12!
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 179.
+
+Missing character: There is no К in font cmr12!
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 186.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 186.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 188.
+[10]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 198.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 198.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 198.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 198.
+ [11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
  (./aperiodic_amp.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
 Package rerunfilecheck Info: File `aperiodic_amp.out' has not changed.
-(rerunfilecheck)             Checksum: D9D08BC40BE73A01142085704AE7631A;1320.
+(rerunfilecheck)             Checksum: E168177B6CAAD3E7C84E182BCED33D3B;2250.
  ) 
 Here is how much of TeX's memory you used:
- 55330 strings out of 492641
- 1239979 string characters out of 6133116
- 1486798 words of memory out of 5000000
- 58369 multiletter control sequences out of 15000+600000
+ 55371 strings out of 492641
+ 1240455 string characters out of 6133116
+ 1490366 words of memory out of 5000000
+ 58390 multiletter control sequences out of 15000+600000
  544539 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,11n,136p,1813b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,12n,136p,2267b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2018/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
-symbols/msam10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx
-1440.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><
-c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texlive
-/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2018/texm
-f-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-dist/fon
-ts/type1/public/cm-super/sfrm1728.pfb>
-Output written on aperiodic_amp.pdf (4 pages, 178485 bytes).
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><c:/texlive/
+2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2018/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr6.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2018/texmf-dist
+/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2018/texmf-dist/fonts/typ
+e1/public/cm-super/sfbx1728.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/
+cm-super/sfcc1095.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/s
+frm0600.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pf
+b><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texl
+ive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on aperiodic_amp.pdf (12 pages, 569184 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
