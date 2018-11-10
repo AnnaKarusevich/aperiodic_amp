@@ -531,10 +531,17 @@ INPUT ./fig/fig4.jpg
 INPUT fig/fig5.jpg
 INPUT ./fig/fig5.jpg
 INPUT ./fig/fig5.jpg
+INPUT fig/fig6.jpg
+INPUT ./fig/fig6.jpg
+INPUT ./fig/fig6.jpg
+INPUT fig/fig7.jpg
+INPUT ./fig/fig7.jpg
+INPUT ./fig/fig7.jpg
 INPUT aperiodic_amp.aux
 INPUT ./aperiodic_amp.out
 INPUT ./aperiodic_amp.out
 INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb

@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1541866483 "aperiodic_amp.tex" "aperiodic_amp.pdf" "aperiodic_amp" 1541866487
-  "aperiodic_amp.aux" 1541866486 5608 65437882d4cbfa9be1b12224370f81ea ""
-  "aperiodic_amp.out" 1541866486 2250 e168177b6caad3e7c84e182bced33d3b ""
-  "aperiodic_amp.tex" 1541866476 38919 5175e78b4f69873a956f7d96bc4c9a9a ""
+["pdflatex"] 1541870487 "aperiodic_amp.tex" "aperiodic_amp.pdf" "aperiodic_amp" 1541870491
+  "aperiodic_amp.aux" 1541870490 6705 2eee6deb42b45d92208485b595dcb574 ""
+  "aperiodic_amp.out" 1541870490 2541 af75d71fc038d5dc9b6d2f83df2172fa ""
+  "aperiodic_amp.tex" 1541870483 46758 b1121b1f53d02bf1b21fe1e8049ef5be ""
   "c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1537297016 3304 6a543c07045572737981351171e0505e ""
   "c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1537296832 3312 d199be9bd555944e2403193d58a0256a ""
   "c:/Users/1/.texlive2018/texmf-var/fonts/tfm/lh/lh-t2a/lacc1095.tfm" 1537614381 3168 d8e0bf3b26d5da63646e71a1fc6cb52a ""
@@ -42,6 +42,7 @@
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1537284011 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1537284011 32587 65067f817f408bc71a7312f3d9828a9b ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1537284011 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
+  "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb" 1537284011 30457 bc0868ebece724ed7c3d37e3d9bff7bd ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb" 1537284011 30273 87a352d78b6810ae5cfdc68d2fb827b2 ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1537284011 31764 459c573c03a4949a528c2cc7f557e217 ""
   "c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1537285133 135942 aecb5af344df420d6ec421db27dedf62 ""
@@ -323,11 +324,13 @@
   "fig/fig3.jpg" 1541841930 160494 426146220fc02e28f54d40f548ab23b6 ""
   "fig/fig4.jpg" 1541843341 75254 cad71ce16e90f9ba255404c131adc534 ""
   "fig/fig5.jpg" 1541861882 56430 af371e13eeb818c4e090ac32d5bfeab9 ""
+  "fig/fig6.jpg" 1541867222 54209 fae8795fd99c0483c207132c3c5be22b ""
+  "fig/fig7.jpg" 1541867249 56090 f7065cc4ffcff58d0347afbef78d4156 ""
   "nul" 0 0 d41d8cd98f00b204e9800998ecf8427e ""
   "text/diss.tex" 1538127686 7698 1cf27c5a20fefe9f924fe37e0edbd94b ""
   "text/titlepage.tex" 1538127686 678 ae795d40a3cc9bfbe3be5ea4b0cfc384 ""
   (generated)
-  "aperiodic_amp.pdf"
   "aperiodic_amp.aux"
-  "aperiodic_amp.out"
   "aperiodic_amp.log"
+  "aperiodic_amp.pdf"
+  "aperiodic_amp.out"
