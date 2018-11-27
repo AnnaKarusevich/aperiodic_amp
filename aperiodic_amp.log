@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.18)  13 NOV 2018 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.18)  27 NOV 2018 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2646,12 +2646,12 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 40.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 40.
-<fig/fig1.jpg, id=90, 710.655pt x 377.91188pt>
+<fig/fig1.jpg, id=110, 710.655pt x 377.91188pt>
 File: fig/fig1.jpg Graphic file (type jpg)
 <use fig/fig1.jpg>
 Package pdftex.def Info: fig/fig1.jpg  used on input line 45.
 (pdftex.def)             Requested size: 241.84843pt x 128.60942pt.
-<fig/fig2.jpg, id=93, 596.2275pt x 394.47375pt>
+<fig/fig2.jpg, id=113, 596.2275pt x 394.47375pt>
 File: fig/fig2.jpg Graphic file (type jpg)
 <use fig/fig2.jpg>
 Package pdftex.def Info: fig/fig2.jpg  used on input line 54.
@@ -2677,7 +2677,7 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 72.
  [3]
-<fig/fig3.jpg, id=110, 888.31876pt x 692.5875pt>
+<fig/fig3.jpg, id=130, 888.31876pt x 692.5875pt>
 File: fig/fig3.jpg Graphic file (type jpg)
 <use fig/fig3.jpg>
 Package pdftex.def Info: fig/fig3.jpg  used on input line 87.
@@ -2702,7 +2702,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 94.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 94.
-<fig/fig4.jpg, id=122, 479.54156pt x 563.10374pt>
+<fig/fig4.jpg, id=142, 479.54156pt x 563.10374pt>
 File: fig/fig4.jpg Graphic file (type jpg)
 <use fig/fig4.jpg>
 Package pdftex.def Info: fig/fig4.jpg  used on input line 117.
@@ -2738,7 +2738,7 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 147.
  [7]
-<fig/fig5.jpg, id=139, 605.26125pt x 347.04657pt>
+<fig/fig5.jpg, id=159, 605.26125pt x 347.04657pt>
 File: fig/fig5.jpg Graphic file (type jpg)
 <use fig/fig5.jpg>
 Package pdftex.def Info: fig/fig5.jpg  used on input line 166.
@@ -2761,91 +2761,240 @@ LaTeX Warning: Command \CYRK invalid in math mode on input line 178.
 
 Missing character: There is no Ê in font cmr12!
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 179.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 179.
 [9 <./fig/fig5.jpg>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 188.
+(babel)             in language  on input line 189.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 188.
+(babel)             in language  on input line 189.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 190.
+(babel)             in language  on input line 191.
  [10]
-<fig/fig6.jpg, id=161, 453.19313pt x 437.38406pt>
+<fig/fig6.jpg, id=184, 453.19313pt x 437.38406pt>
 File: fig/fig6.jpg Graphic file (type jpg)
 <use fig/fig6.jpg>
-Package pdftex.def Info: fig/fig6.jpg  used on input line 200.
+Package pdftex.def Info: fig/fig6.jpg  used on input line 201.
 (pdftex.def)             Requested size: 290.22107pt x 280.09836pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 207.
+(babel)             in language  on input line 224.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 207.
+(babel)             in language  on input line 224.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 207.
+(babel)             in language  on input line 224.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 207.
- [11 <./fig/fig6.jpg>]
+(babel)             in language  on input line 224.
+[11]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 232.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 232.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 232.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 234.
- [12]
+(babel)             in language  on input line 232.
+ [12 <./fig/fig6.jpg>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 239.
+(babel)             in language  on input line 240.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 239.
-<fig/fig7.jpg, id=181, 633.86812pt x 255.20343pt>
+(babel)             in language  on input line 240.
+<fig/fig7.jpg, id=204, 633.86812pt x 255.20343pt>
 File: fig/fig7.jpg Graphic file (type jpg)
 <use fig/fig7.jpg>
-Package pdftex.def Info: fig/fig7.jpg  used on input line 244.
+Package pdftex.def Info: fig/fig7.jpg  used on input line 245.
 (pdftex.def)             Requested size: 483.69687pt x 194.74712pt.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 257.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 257.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 257.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 257.
+(babel)             in language  on input line 255.
  [13 <./fig/fig7.jpg>]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 263.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 264.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 264.
+<fig/fig12.jpg, id=211, 2569.6pt x 1927.2pt>
+File: fig/fig12.jpg Graphic file (type jpg)
+<use fig/fig12.jpg>
+Package pdftex.def Info: fig/fig12.jpg  used on input line 268.
+(pdftex.def)             Requested size: 338.58632pt x 253.92656pt.
+<fig/fig81.jpg, id=213, 1076.02pt x 471.7625pt>
+File: fig/fig81.jpg Graphic file (type jpg)
+<use fig/fig81.jpg>
+Package pdftex.def Info: fig/fig81.jpg  used on input line 276.
+(pdftex.def)             Requested size: 386.95897pt x 169.6544pt.
 
-[14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 262.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 262.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 283.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 283.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 283.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 283.
+[14 <./fig/fig12.jpg>]
+<fig/fig13.jpg, id=221, 1284.8pt x 807.015pt>
+File: fig/fig13.jpg Graphic file (type jpg)
+<use fig/fig13.jpg>
+Package pdftex.def Info: fig/fig13.jpg  used on input line 287.
+(pdftex.def)             Requested size: 338.58632pt x 212.67581pt.
+<script/z23.pdf, id=223, 462.52798pt x 346.89601pt>
+File: script/z23.pdf Graphic file (type pdf)
+<use script/z23.pdf>
+Package pdftex.def Info: script/z23.pdf  used on input line 296.
+(pdftex.def)             Requested size: 435.32422pt x 326.51103pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 300.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 300.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 300.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 300.
+ [15 <./fig/fig81.jpg> <./fig/fig13.jpg (PNG copy)>]
+<fig/fig11norma.jpg, id=229, 2569.6pt x 1927.2pt>
+File: fig/fig11norma.jpg Graphic file (type jpg)
+<use fig/fig11norma.jpg>
+Package pdftex.def Info: fig/fig11norma.jpg  used on input line 305.
+(pdftex.def)             Requested size: 145.11053pt x 108.80466pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 308.
+See the caption package documentation for explanation.
+
+<fig/fig10iskajeniya.jpg, id=230, 2569.6pt x 1927.2pt>
+File: fig/fig10iskajeniya.jpg Graphic file (type jpg)
+<use fig/fig10iskajeniya.jpg>
+Package pdftex.def Info: fig/fig10iskajeniya.jpg  used on input line 313.
+(pdftex.def)             Requested size: 145.11053pt x 108.80466pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 316.
+See the caption package documentation for explanation.
+
+<fig/fig9iskajeniya.jpg, id=231, 2569.6pt x 1927.2pt>
+File: fig/fig9iskajeniya.jpg Graphic file (type jpg)
+<use fig/fig9iskajeniya.jpg>
+Package pdftex.def Info: fig/fig9iskajeniya.jpg  used on input line 321.
+(pdftex.def)             Requested size: 145.11053pt x 108.80466pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 324.
+See the caption package documentation for explanation.
+
+<script/z251.pdf, id=233, 462.52798pt x 346.89601pt>
+File: script/z251.pdf Graphic file (type pdf)
+<use script/z251.pdf>
+Package pdftex.def Info: script/z251.pdf  used on input line 331.
+(pdftex.def)             Requested size: 338.58632pt x 253.95184pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 335.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 335.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 335.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 335.
+[16 <./script/z23.pdf> <./fig/fig11norma.jpg> <./fig/fig10iskajeniya.jpg> <./fi
+g/fig9iskajeniya.jpg>]
+<fig/fig14.jpg, id=291, 1818.795pt x 1096.095pt>
+File: fig/fig14.jpg Graphic file (type jpg)
+<use fig/fig14.jpg>
+Package pdftex.def Info: fig/fig14.jpg  used on input line 339.
+(pdftex.def)             Requested size: 290.22107pt x 174.89375pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 351.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 351.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 351.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 351.
+ [17 <./script/z251.pdf> <./fig/fig14.jpg>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 353.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 353.
+<fig/fig82.jpg, id=350, 1076.02pt x 471.7625pt>
+File: fig/fig82.jpg Graphic file (type jpg)
+<use fig/fig82.jpg>
+Package pdftex.def Info: fig/fig82.jpg  used on input line 358.
+(pdftex.def)             Requested size: 386.95897pt x 169.6544pt.
+<script/z33.pdf, id=352, 462.52798pt x 346.89601pt>
+File: script/z33.pdf Graphic file (type pdf)
+<use script/z33.pdf>
+Package pdftex.def Info: script/z33.pdf  used on input line 369.
+(pdftex.def)             Requested size: 338.58632pt x 253.95184pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 376.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 376.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 376.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 376.
+ [18 <./fig/fig82.jpg> <./script/z33.pdf>]
+<script/z35.pdf, id=404, 462.52798pt x 346.89601pt>
+File: script/z35.pdf Graphic file (type pdf)
+<use script/z35.pdf>
+Package pdftex.def Info: script/z35.pdf  used on input line 380.
+(pdftex.def)             Requested size: 386.95897pt x 290.23145pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 390.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 390.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 393.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 393.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 393.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 393.
+ [19 <./script/z35.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 393.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 393.
  (./aperiodic_amp.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 262.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 262.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 393.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 393.
 Package rerunfilecheck Info: File `aperiodic_amp.out' has not changed.
-(rerunfilecheck)             Checksum: AF75D71FC038D5DC9B6D2F83DF2172FA;2541.
+(rerunfilecheck)             Checksum: 4E5CC7965CBCF88E65FCEAB7C355A2DF;3448.
  ) 
 Here is how much of TeX's memory you used:
- 55401 strings out of 492641
- 1240821 string characters out of 6133116
- 1490708 words of memory out of 5000000
- 58410 multiletter control sequences out of 15000+600000
+ 55505 strings out of 492641
+ 1242485 string characters out of 6133116
+ 1491156 words of memory out of 5000000
+ 58476 multiletter control sequences out of 15000+600000
  544539 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,12n,136p,2267b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2868,10 +3017,10 @@ uper/sfbx1728.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1
 :/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/
 2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf
 -dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on aperiodic_amp.pdf (15 pages, 706201 bytes).
+Output written on aperiodic_amp.pdf (20 pages, 7807297 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 236 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 534 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
 
